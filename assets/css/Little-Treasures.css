@@ -134,14 +134,14 @@ body {
     overflow-x: hidden;
   }
   .mobile-top-fix {
-    margin-top: 30px;
+    margin-top: 20px;
     margin-bottom: 0px;
   }
   .mobile-bottom-fix {
-    margin-bottom: 30px;
+    margin-bottom: 20px;
   }
   .mobile-bottom-fix-big {
-    margin-bottom: 60px;
+    margin-bottom: 30px;
   }
 }
 
@@ -187,7 +187,7 @@ section {
 
 
 section-a {
-  margin-top: 50px;
+  margin-top: 30px;
   margin-right: 0px;
   margin-left: 0px;
 }
@@ -199,7 +199,7 @@ section-a {
   z-index: 2;
   margin-top: 0px;
   text-align: center;
-  margin-bottom: 50px;
+  margin-bottom: 30px;
 }
 
 .section-heading h6 {
@@ -219,7 +219,7 @@ section-a {
 }
 
 .section-heading p {
-  margin-top: 30px;
+  margin-top: 20px;
 }
 
 
@@ -230,7 +230,7 @@ header
 */
 .background-header {
   background-color: #212741;
-  height: 80px!important;
+  height: 70px!important;
   position: fixed!important;
   top: 0!important;
   left: 0;
@@ -256,7 +256,7 @@ header
 }
 
 .header-area .main-nav {
-  min-height: 80px;
+  min-height: 70px;
   background: transparent;
 }
 
@@ -280,12 +280,12 @@ header
 }
 
 .background-header .nav {
-  margin-top: 18px !important;
+  margin-top: 20px !important;
 }
 
 .header-area .main-nav .nav {
   float: right;
-  margin-top: 40px;
+  margin-top: 20px;
   margin-right: 0px;
   background-color: transparent;
   -webkit-transition: all 0.3s ease 0s;
@@ -806,14 +806,14 @@ services
 */ 
 
 section.services {
-  margin-top: 50px;
+  margin-top: 30px;
 }
 
 .services .service-item {
   border-radius: 5px;
   padding: 30px;
   box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.1);
-  margin-top: 30px;
+  margin-top: 20px;
   margin-right: 20px;
   margin-left: 20px;
 }
@@ -833,7 +833,7 @@ section.services {
   float: left;
   font-size: 64px;
   color: #643c95;
-  margin-bottom: 30px;
+  margin-bottom: 20px;
   margin-right: 30px;
 }
 
@@ -877,8 +877,8 @@ section.simple-cta h4 strong {
 
 section.simple-cta p {
   color: #fff;
-  margin-top: 30px;
-  margin-bottom: 40px;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 
 section.simple-cta .buttons {
@@ -892,7 +892,7 @@ section.simple-cta .buttons .orange-button {
 
 section.simple-cta .buttons .orange-button,
 section.simple-cta .buttons .green-button {
-  margin-top: 25px;
+  margin-top: 20px;
 }
 
 
@@ -904,11 +904,11 @@ about us
 */
 
 section.about-us {
-  margin-top: 50px;
+  margin-top: 30px;
 }
 
 section.about-us .section-heading {
-  padding-top: 30px;
+  padding-top: 20px;
 }
 
 section.about-us .naccs {
@@ -937,7 +937,7 @@ section.about-us .naccs .menu div.active {
 }
 
 section.about-us ul.nacc {
-  margin-top: 50px !important;
+  margin-top: 30px !important;
   position: relative;
   min-height: 100%;
   list-style: none;
@@ -1003,7 +1003,7 @@ section.about-us .right-content h4 {
   font-size: 22px;
   font-weight: 700;
   line-height: 40px;
-  margin-bottom: 40px;
+  margin-bottom: 20px;
 }
 
 section.about-us .right-content p {
@@ -1054,7 +1054,7 @@ section.calculator .section-heading h4 {
   height: 42px;
   color: #fff;
   font-size: 14px;
-  margin-bottom: 30px;
+  margin-bottom: 20px;
   outline: none;
 }
 
@@ -1089,11 +1089,11 @@ testimonials
 */
 
 section.testimonials {
-  margin-top: 50px;
+  margin-top: 20px;
 }
 
 section.testimonials .section-heading {
-  padding-top: 30px;
+  padding-top: 20px;
 }
 
 .testimonials .item {
@@ -1117,7 +1117,7 @@ section.testimonials .section-heading {
   color: #fff;
   font-size: 44px;
   border-radius: 5px;
-  margin-bottom: 30px;
+  margin-bottom: 20px;
 }
 
 .testimonials .item p {
@@ -1164,29 +1164,6 @@ section.testimonials .section-heading {
 
 .testimonials .owl-dots .active {
   background-color: #643c95;
-}
-
-
-
-/* 
----------------------------------------------
-partners
---------------------------------------------- 
-*/
-
-section.partners {
-  background-color: #212741;
-  padding: 80px 0px;
-}
-
-section.partners .item {
-  margin: 0px 15px;
-  cursor: pointer;
-  transition: all .3s;
-}
-
-section.partners .item:hover {
-  opacity: 0.75;
 }
 
 
@@ -1318,18 +1295,18 @@ section.what-we-do {
   font-size: 22px;
   font-weight: 700;
   line-height: 40px;
-  margin-bottom: 40px;
+  margin-bottom: 20px;
 }
 
 .what-we-do .left-content p {
-  margin-bottom: 40px;
+  margin-bottom: 20px;
 }
 
 .what-we-do .right-items .item {
   border-radius: 5px;
   padding: 40px 30px;
   box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.1);
-  margin-bottom: 30px;
+  margin-bottom: 20px;
   position: relative;
 }
 
@@ -1363,7 +1340,7 @@ services page
 */
 
 .main-services .service-item {
-  margin-bottom: 60px;
+  margin-bottom: 30px;
   padding-bottom: 60px;
   border-bottom: 1px solid #ecf8f2;
 }
@@ -1416,8 +1393,8 @@ services page
   font-size: 36px;
   font-weight: 700;
   color: #212741;
-  margin-top: 40px;
-  margin-bottom: 30px;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 
 section.service-details .naccs {
@@ -1449,7 +1426,7 @@ section.service-details .naccs .menu div.active {
 }
 
 section.service-details ul.nacc {
-  margin-top: 50px !important;
+  margin-top: 30px !important;
   position: relative;
   min-height: 100%;
   list-style: none;
@@ -1514,7 +1491,7 @@ section.service-details ul.nacc li .right-content .last-span {
 }
 
 section.service-details ul.nacc li .right-content p {
-  margin-bottom: 30px;
+  margin-bottom: 20px;
 }
 
 section.service-details ul.nacc li.active {
@@ -1539,7 +1516,7 @@ section.map .info-item {
   border-radius: 5px;
   background-color: #fff;
   box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.1);
-  margin-top: -60px;
+  margin-top: -30px;
   margin-left: 15px;
   margin-right: 15px;
   position: relative;
@@ -1548,13 +1525,13 @@ section.map .info-item {
 }
 
 section.map .info-item:hover {
-  margin-top: -70px;
+  margin-top: -40px;
 }
 
 section.map .info-item i {
   font-size: 36px;
   color: #643c95;
-  margin-bottom: 25px;
+  margin-bottom: 20px;
 }
 
 section.map .info-item h4 {
@@ -1649,6 +1626,7 @@ body {
   }
   .slide-inner .header-text {
     width: 80%;
+    text-align: left;
   }
   .simple-cta {
     text-align: center;
@@ -1664,7 +1642,7 @@ body {
   }
   section.about-us .right-content {
     margin-left: 0px;
-    margin-top: 60px;
+    margin-top: 20px;
   }
   section.calculator .left-image {
     display: none;
@@ -1678,22 +1656,22 @@ body {
   }
   section.top-section .accordions {
     margin-left: 0px;
-    margin-top: 45px;
+    margin-top: 20px;
   }
   .what-we-do .left-content {
     margin-right: 0px;
-    margin-bottom: 45px;
+    margin-bottom: 20px;
   }
   .main-services .left-image {
     margin-right: 0px;
-    margin-bottom: 30px;
+    margin-bottom: 20px;
   }
   .main-services .right-text-content {
     margin-left: 0px;
   }
   .main-services .right-image {
     margin-left: 0px;
-    margin-top: 30px;
+    margin-bottom: 20px;
   }
   section.service-details ul.nacc li .left-image {
     position: relative;
@@ -1717,13 +1695,13 @@ body {
     display: none;
   }
   section.map .info-item {
-    margin-top: 30px;
+    margin-top: 20px;
   }
 }
 
 @media (max-width: 767px) {
   .header-area .main-nav .logo {
-    line-height: 100px;
+    line-height: 70px;
   }
   .background-header .main-nav .logo {
     line-height: 80px;
@@ -1736,9 +1714,9 @@ body {
   }
   .slide-inner .header-text {
     text-align: center;
-    width: 80%;
-    margin-left: 10%;
-    margin-right: 10%;
+    width: 100%;
+    margin-left: 5%;
+    margin-right: 5%;
   }
   .slide-inner .header-text .div-dec {
     margin-left: auto;
@@ -1751,7 +1729,7 @@ body {
     float: none;
   }
   .services .service-item i {
-    margin-bottom: 35px;
+    margin-bottom: 20px;
   }
   section.about-us ul.nacc li span.item-title {
     font-size: 14px !important;
@@ -1760,15 +1738,15 @@ body {
     font-size: 13px;
   }
   .testimonials .item i {
-    margin-bottom: 60px;
+    margin-bottom: 20px;
   }
   .testimonials .item img {
     max-width: 100px;
     right: 50px;
-    top: 35px;
+    top: 35px;exitexit
     transform: translateY(0);
   }
   .testimonials .item {
-    padding: 50px;
+    padding: 20px;
   }
 }
