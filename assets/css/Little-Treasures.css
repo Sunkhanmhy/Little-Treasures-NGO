@@ -813,9 +813,9 @@ section.services {
   border-radius: 5px;
   padding: 30px;
   box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.1);
-  margin-top: 20px;
-  margin-right: 20px;
-  margin-left: 20px;
+  margin-top:40px;
+  margin-right: 15px;
+  margin-left: 15px;
 }
 
 .services .service-item:hover i {
@@ -1284,7 +1284,7 @@ section.top-section .accordions {
 }
 
 section.what-we-do {
-  margin-bottom: -30px;
+  margin-bottom: -20px;
 }
 
 .what-we-do .left-content {
