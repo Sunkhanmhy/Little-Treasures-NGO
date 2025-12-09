@@ -1815,4 +1815,33 @@ body {
 
 
 
+/* Base button style */
+.btn {
+  display: inline-block;
+  padding: 6px 10px;
+  margin-left: 6px;
+  border-radius: 6px;
+  color: white;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 0.9rem;
+  line-height: 1;
+  vertical-align: middle;
+  transition: transform 0.08s ease, box-shadow 0.08s ease;
+}
 
+/* Hover effect */
+.btn:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+}
+
+/* Platform colors */
+.fb { background: #1877F2; }        /* Facebook Blue */
+.yt { background: #FF0000; }        /* YouTube Red */
+.ig { background: #C13584; }        /* Instagram Pink */
+.tt { background: #000000; }        /* TikTok Black */
+.wa { background: #25D366; }        /* WhatsApp Green */
+
+/* Optional: small spacing between words */
+p .btn:first-child { margin-left: 8px; }
