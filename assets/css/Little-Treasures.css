@@ -1713,7 +1713,7 @@ body {
   .slide-inner .header-text p {
     display: none;
   }
-  .slide-inner .header-text {
+  .slide-inner .header-text h2{
     text-align: left;
     width: 100%;
     margin-left: 5%;
