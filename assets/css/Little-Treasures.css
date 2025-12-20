@@ -141,7 +141,7 @@ body {
     margin-bottom: 20px;
   }
   .mobile-bottom-fix-big {
-    margin-bottom: 30px;
+    margin-bottom: 20px;
   }
 }
 
@@ -180,7 +180,7 @@ body {
 }
 
 section {
-  margin-top: 50px;
+  margin-top: 40px;
   margin-right: 0px;
   margin-left: 0px;
 }
@@ -749,7 +749,7 @@ banner
 }
 
 .slide-inner .header-text h2 {
-  position: relative;
+  position: left;
   z-index: 2;
   font-size: 45px;
   color: #fff;
@@ -1207,7 +1207,7 @@ page heading
 }
 
 .page-heading h2 {
-  font-size: 56px;
+  font-size: 40px;
   color: #fff;
   font-weight: 700;
 }
@@ -1340,7 +1340,7 @@ services page
 */
 
 .main-services .service-item {
-  margin-bottom: 30px;
+  margin-bottom: 20px;
   padding-bottom: 60px;
   border-bottom: 1px solid #ecf8f2;
 }
@@ -1612,6 +1612,7 @@ responsive
 
 body {
   overflow-x: hidden;
+
 }
 
 @media (max-width: 992px) {
@@ -1704,7 +1705,7 @@ body {
     line-height: 70px;
   }
   .background-header .main-nav .logo {
-    line-height: 80px;
+    line-height: 50px;
   }
   .header-area .main-nav .nav li.has-sub ul.sub-menu {
     display: none;
